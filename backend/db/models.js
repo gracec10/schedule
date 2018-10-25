@@ -6,7 +6,7 @@ const ClassSchema = new mongoose.Schema ({
   subjCode: String,
   crseNum: String,
   order: Number,
-  prereqs: [],
+  prerequisites: [],
   term: Number
 })
 

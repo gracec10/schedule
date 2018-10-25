@@ -24,7 +24,7 @@
     "crseNum": "100",
     "order": 1,
     "prerequisites": [],
-    "term": 1
+    "term": 4
   },
   {
     "id": 30,
@@ -33,7 +33,7 @@
     "crseNum": "100",
     "order": 2,
     "prerequisites": [],
-    "term": 1
+    "term": 2
   },
   {
     "id": 25,
@@ -42,7 +42,7 @@
     "crseNum": "320",
     "order": 1,
     "prerequisites": [],
-    "term": 1
+    "term": 2
   },
   {
     "id": 250,
@@ -51,6 +51,6 @@
     "crseNum": "800",
     "order": 4,
     "prerequisites": [],
-    "term": 1
+    "term": 3
   }
 ]
